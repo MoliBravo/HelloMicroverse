@@ -101,7 +101,7 @@ You can deploy the project with the help of online web platform to host your web
 
 👤 **Mishelle Olivares**
 
-- GitHub: [@githubhandle](https://github.com/MoliBravo/HelloMicroverse)
+- GitHub: [@githubhandle](https://github.com/MoliBravo)
 - Twitter: [@twitterhandle](https://twitter.com/mishyolivares)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/mishelle-daniela-olivares-bravo-5b89b157/)
 
