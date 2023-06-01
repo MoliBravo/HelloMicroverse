@@ -129,7 +129,7 @@ If you like this project please let me know
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank to my partners from Microverse for all their support
+I would like to thank my code reviewer Aaskah Verma for for his valuable help.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
